@@ -7,6 +7,7 @@
  * @version 2024.10.07 DP classes 
  */
 public class Order
+
 {
     private String sendingName;
     private Location location;
